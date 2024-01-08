@@ -1,4 +1,4 @@
-# Future Frame Prediction and Segmentation - Final Project Deep Learning (Spring 2023)
+# Future Frame Prediction and Segmentation 
 
 **Goal:**
 
@@ -45,6 +45,6 @@ python infer.py
 This project was part of the coursework for the Deep Learning (spring 2023) course at NYU.
 
 Contributors:
-* Charvi Gupta (cg4177@nyu.edu)
 * Anoushka Gupta (ag8733@nyu.edu)
+* Charvi Gupta (cg4177@nyu.edu)
 * Anisha Bhatnagar (ab10945@nyu.edu)
