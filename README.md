@@ -38,11 +38,9 @@ to connect both the future frame prediction model and the Segmentation model in 
 python infer.py
 ```
 
-
-
 ## Notes
 
-This project was part of the coursework for the Deep Learning (spring 2023) course at NYU.
+This project was part of the coursework for the Deep Learning (Spring 2023) course at NYU.
 
 Contributors:
 * Anoushka Gupta (ag8733@nyu.edu)
